@@ -1,0 +1,45 @@
+[
+  {
+    "classifier_id": "default",
+    "name": "default",
+    "classes": [
+      {
+        "class":"coal black color",
+        "score":0.904
+      },
+      {
+        "class":"fan belt",
+        "score":0.652 
+      },
+      {
+        "class":"engine",
+        "score":0.6
+      },
+      {
+        "class":"mechanism",
+        "score":0.6
+      },
+      {
+        "class":"mechanical system",
+        "score":0.598
+      },
+      {
+        "class":"machine",
+        "score":0.593
+      },
+      {
+        "class":"bar",
+        "score":0.536
+      },
+      {
+        "class":"rocker arm",
+        "score":0.524,
+        "type_hierarchy":"/bar/lever/rocker ar..."
+      },
+      {
+        "class":"ash grey color",
+        "score":0.523
+      }
+    ]
+  }
+]
